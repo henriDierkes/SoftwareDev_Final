@@ -1,7 +1,7 @@
 # Software Development Final Project
 Final project for the course Software Development @[PLUS](https://www.plus.ac.at/)
 
-# Identifying and upscaling vegetation endmembers from UAV imagery for larger scale applications
+# Identifying and upscaling vegetation endmembers from UAV imagery for vegetation diversity estimation at larger scale applications
 Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
 
 ## Aim
@@ -9,6 +9,8 @@ Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
     - Automatically extract endmember spectra from UAV images using stratified random sampling and an unsupervised clustering algorithm to differentiate vegetation endmembers.
     - Apply LSMA to estimate vegetation diversity.
     - Make an interactive web application using streamlit.io to visualize the results and modify some parameters interactively.
+
+![UAV derived vegetation endmembers](img/SoftDev-01.png)
 
 ## Expected Outcomes
 - Combine UAV and Satellite imagery for LSMA.
