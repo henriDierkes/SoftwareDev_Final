@@ -1,5 +1,5 @@
 # Software Development Final Project
-Final project for the course Software Development
+Final project for the course Software Development @[PLUS](https://www.plus.ac.at/)
 
 # Identifying and upscaling vegetation endmembers from UAV imagery for larger scale applications
 Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
