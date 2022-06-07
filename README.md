@@ -2,11 +2,17 @@
 Final project for the course Software Development
 
 Aim
+- Identifying the proportion of different species within a pixel
 - Perform linear spectral mixture analysis (LSMA) using respective python libraries & packages
     - Automatically extract endmember spectra from image 
     - Maybe compare results from endmember spectra derived from the image to spectra from field data (ASD measurements)
 - Maybe explore also Multiple Spectral Mixture Analysis (MESMA)
 - Make an interactive web application using streamlit.io to visualize the results and modify some parameters
+
+Data
+- Sentinel 2 Level 2A images
+- Drone data at ~2cm resolution
+
 
 Responsibilities
 - LSMA part (Henrike & Kiarash)
