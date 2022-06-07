@@ -23,6 +23,12 @@ Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
 - Sentinel 2 Level 2A cloud free mosaic (10m pixel size). 
 - UAV imagery (~2cm pixel size). 
 
+## Responsibilities
+- Conceptualization of the idea (Henrike, Edgar, Kiarash).
+- Endmembers extraction from UAV imagery (Henrike & Edgar).
+- LSMA Analysis (Henrike & Kiarash).
+- Web application (Edgar & Kiarash).
+
 ## Due date
 - 15th July 2022
 
@@ -30,9 +36,3 @@ Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
 - Kiarash: 30h
 - Edgar: 30h
 - Henrike: 30h 
-
-## Responsibilities
-- Conceptualization of the idea (Henrike, Edgar, Kiarash).
-- Endmembers extraction from UAV imagery (Henrike & Edgar).
-- LSMA Analysis (Henrike & Kiarash).
-- Web application (Edgar & Kiarash).
