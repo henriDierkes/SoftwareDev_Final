@@ -1,32 +1,36 @@
 # Software Development Final Project
 Final project for the course Software Development
 
-Aim
-- Identifying the proportion of different species within a pixel
-- Perform linear spectral mixture analysis (LSMA) using respective python libraries & packages
-    - Automatically extract endmember spectra from image 
-    - Maybe compare results from endmember spectra derived from the image to spectra from field data (ASD measurements)
-- Maybe explore also Multiple Spectral Mixture Analysis (MESMA)
-- Make an interactive web application using streamlit.io to visualize the results and modify some parameters
+# Identifying and upscaling vegetation endmembers from UAV imagery for larger scale applications
+Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
 
-Data
-- Sentinel 2 Level 2A images
-- Drone data at ~2cm resolution
+## Aim
+- Identify the proportion of different vegetation species within a pixel by upscaling UAV derived vegetation endmembers, using Linear Spectral Mixture Analysis (LSMA)
+    - Automatically extract endmember spectra from UAV images using stratified random sampling and an unsupervised clustering algorithm to differentiate vegetation endmembers.
+    - Apply LSMA to estimate vegetation diversity.
+    - Make an interactive web application using streamlit.io to visualize the results and modify some parameters interactively.
 
+## Expected Outcomes
+- Combine UAV and Satellite imagery for LSMA.
+    - Algorithms to identify endmembers in UAV imagery.
+    - Algorithms to upscale UAV derived endmembers to coarser resolution satellite imagery.
+- Standardized workflow for LSMA.
+- Streamlit application.
 
-Responsibilities
-- LSMA part (Henrike & Kiarash)
-- Web application (Edgar & Kiarash)
+## Data
+- Sentinel 2 Level 2A cloud free mosaic (10m pixel size). 
+- UAV imagery (~2cm pixel size). 
 
-Due date
+## Due date
 - 15th July 2022
 
-Expected time effort
-- Kiarash: 20h
-- Edgar: 20h
-- Henrike: 20h 
+## Expected time effort
+- Kiarash: 30h
+- Edgar: 30h
+- Henrike: 30h 
 
-Expected Outcomes
-- Learning about the spectral mixture analysis
-- Getting familiar with Python syntax
-- Explore Streamlit to deploy applications 
+## Responsibilities
+- Conceptualization of the idea (Henrike, Edgar, Kiarash).
+- Endmembers extraction from UAV imagery (Henrike & Edgar).
+- LSMA Analysis (Henrike & Kiarash).
+- Web application (Edgar & Kiarash).
