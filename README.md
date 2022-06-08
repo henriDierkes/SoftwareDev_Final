@@ -1,7 +1,7 @@
 # Software Development Final Project
 Final project for the course Software Development @[PLUS](https://www.plus.ac.at/)
 
-# Identifying and upscaling vegetation endmembers from UAV imagery for vegetation diversity estimation at larger scale applications
+# Identifying and upscaling vegetation endmembers from UAV imagery to identify vegetation diversity at larger scale applications
 Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
 
 ## Aim
