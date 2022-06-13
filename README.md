@@ -43,7 +43,7 @@ Spectral Mixture Analysis (SMA) tries to overcome this problem by identifying th
 
 ## LSMA
 The Linear Spectral Mixture Analysis assumes that the total radiance recorded from a certain pixel can be expressed as a linear combination of its constituents. Mathematically, the problem can be solved using a simple linear equation with two known quantities and one unknown.
-This simple inversion is valid only if there is the same number of equations and unknowns. In reality, however, there are more spectral bands than endmembers, so the simple inversion is not possible. Instead, a least square solution is found using the Morre-Penrose pseudoinverse:
+This simple inversion is valid only if there is the same number of equations and unknowns. In reality, however, there are more spectral bands than endmembers, so the simple inversion is not possible. Instead, a least square solution is found using the Moore-Penrose pseudoinverse:
 
 $$x = (A^T A)^-1 * A^T * R + e$$        
 
