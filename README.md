@@ -21,7 +21,7 @@ Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
 
 ## Data
 - Sentinel 2 Level 2A cloud free mosaic (10m pixel size). 
-- UAV imagery (~2cm pixel size). 
+- UAV imagery (~2cm pixel size). A snippet can be downloaded here: [data](https://drive.google.com/file/d/1MwHWcYe6eTrshXEIjkoq8Zw0Fj8mYjyh/view?usp=sharing)
 
 ## Responsibilities
 - Conceptualization of the idea (Henrike, Edgar, Kiarash).
