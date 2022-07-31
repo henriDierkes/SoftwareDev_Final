@@ -30,11 +30,11 @@ Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
 - Web application (Edgar & Kiarash).
 
 ## Due date
-- 15th July 2022
+- 31th July 2022
 
 ## Expected time effort
-- Kiarash: 30h
-- Edgar: 30h
+- Kiarash: 10h
+- Edgar: 10h
 - Henrike: 30h 
 
 # Methodology 
