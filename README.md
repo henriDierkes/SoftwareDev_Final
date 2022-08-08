@@ -6,9 +6,9 @@ Henrike Dierkes, Edgar Manrique, Kiarash Pooladsaz
 
 ## Aim
 - Identify the proportion of different vegetation species within a pixel by upscaling UAV derived vegetation endmembers, using Linear Spectral Mixture Analysis (LSMA)
-    - Automatically extract endmember spectra from UAV images using stratified random sampling and an unsupervised clustering algorithm to differentiate vegetation endmembers.
+    - Automatically [extract endmember spectra from UAV images](https://github.com/henriDierkes/SoftwareDev_Final) using stratified random sampling and an unsupervised clustering algorithm to differentiate vegetation endmembers.
     - Apply LSMA to estimate vegetation diversity.
-    - Make an @[interactive web application](https://edgarjoao30-softdev-app-streamlit-app-vy1ifg.streamlitapp.com/) using streamlit.io to visualize the results and modify some parameters interactively.
+    - Make an [interactive web application](https://edgarjoao30-softdev-app-streamlit-app-vy1ifg.streamlitapp.com/) using streamlit.io to visualize the results and modify some parameters interactively.
 
 ![UAV derived vegetation endmembers](img/SoftDev-01.png)
 
